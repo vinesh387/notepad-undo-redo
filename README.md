@@ -220,6 +220,6 @@ SOFTWARE.
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by Ali Ahmed Memon
+Made with ❤️ by Vinesh kumar
 
 </div>
